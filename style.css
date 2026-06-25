@@ -44,7 +44,9 @@ nav a:hover {
 
 .left img {
     width: 250px;
-    border-radius: 10px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
     margin-bottom: 15px;
 }
 
